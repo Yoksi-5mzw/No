@@ -230,5 +230,5 @@ game.Players.LocalPlayer.Character:MoveTo(Vector3.new(63.499931335449, 126.17489
 end)
 
 main3:NewKeybind("Minimize Gui", Enum.KeyCode.E, function()
-Horrifc:UIMinimize()
+Library:UIMinimize()
 end)
